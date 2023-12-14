@@ -1,0 +1,52 @@
+.naz{
+	font-family: Arial;
+	padding: 10px;
+	background: #f1f1f1;
+	padding: 30px;
+	text-align: center;
+	background: white;
+	font-size: 50px;
+}
+.perexodi{
+	overflow: hidden;
+	background-color: #333;
+}
+.perexodi a{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.niz {
+	clear: left;
+	padding: 20px;
+	text-align: center;
+	background: #ddd  ;
+	margin-top: 20px;
+}
+{
+h2
+clear: left;
+}
+.adb {
+width: 300px;
+height: 100px;
+background-color: #00ffcb;
+border: 1px solid black;
+transform: translate(50px,100px);
+}
+.expl{
+width: 300px;
+height: 100px;
+background-color: #00ffcb;
+border: 1px solid black;
+transform: scaleX(2);
+margin: 150px;
+transform: scaleY(3);
+margin: 105px;
+transform: skewX(20deg);
+transform: skewY(20deg);
+transform: matrix(1, -0.3, 0, 1, 0, 0);
+}
